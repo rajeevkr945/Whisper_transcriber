@@ -1,2 +1,2 @@
-# Wisper_transcriber
+# Whisper_transcriber
 Transcribes audio locally
